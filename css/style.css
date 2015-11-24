@@ -1,0 +1,45 @@
+body {
+	background-color: #381818;
+	color: #FFF;
+	text-align: center;
+
+	font-family: Calibri,'Ubuntu', sans-serif;
+}
+
+.controls {
+	text-transform: uppercase;
+}
+
+.control-title {
+	font-size: 80%;
+}
+
+h1, h2 {
+	font-family: 'Black Ops One', monospace;
+}
+
+header {
+	margin-bottom: 30px;
+}
+
+section {
+	border: dashed 1px white;
+	margin-bottom: 50px;
+}
+
+#clock {
+	width: 50%;
+	padding-bottom: 10%;
+	border-radius: 50%; 
+	//clear: both;
+}
+
+#clock-txt {
+	margin-top: 25%;
+	font-size: xx-large;
+}
+
+#time {
+	margin-top: 25%;
+	font-size: x-large;
+}
