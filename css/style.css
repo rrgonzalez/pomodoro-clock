@@ -1,5 +1,5 @@
 body {
-	background-color: #381818;
+	background-color: #333;
 	color: #FFF;
 	text-align: center;
 
@@ -19,15 +19,15 @@ h1, h2 {
 }
 
 header {
-	margin-bottom: 30px;
-}
-
-section {
-	border: dashed 1px white;
 	margin-bottom: 50px;
 }
 
+section {
+	margin-bottom: 30px;
+}
+
 #clock {
+	border: solid 2px green; 
 	width: 50%;
 	padding-bottom: 10%;
 	border-radius: 50%; 
